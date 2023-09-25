@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "image":"../image1.jpg",
+        "title":"Regular fit slogan",
+        "price":"INR 1,190",
+        "size":"L"
+    },
+    {
+        "id":2,
+        "image":"../image2.jpg",
+        "title":"Regular fit polo",
+        "price":"INR 1,100",
+        "size":"M"
+    },
+    {
+        "id":3,
+        "image":"../image4.jpg",
+        "title":"Regular fit v-neck",
+        "price":"INR 1,290",
+        "size":"L"
+    }
+]
